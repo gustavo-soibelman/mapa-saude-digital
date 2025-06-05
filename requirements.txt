@@ -1,6 +1,6 @@
 streamlit>=1.30
-pandas
-requests
-folium
-streamlit-folium
-openpyxl
+pandas>=2.0
+folium>=0.15
+streamlit-folium>=0.11
+openpyxl>=3.1
+xlsxwriter>=3.1
